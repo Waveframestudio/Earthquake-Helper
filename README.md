@@ -9,9 +9,9 @@
   </p>
 
   <p>
-    <a href="#-stack-tecnológico"><img src="https://img.shields.io/badge/React-19.0-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React 19" /></a>
-    <a href="#-stack-tecnológico"><img src="https://img.shields.io/badge/Vite-8.0-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite 8" /></a>
-    <a href="#-stack-tecnológico"><img src="https://img.shields.io/badge/Tailwind_CSS-v4-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" /></a>
+    <a href="#-stack-tecnológico"><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React 19" /></a>
+    <a href="#-stack-tecnológico"><img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite 8" /></a>
+    <a href="#-stack-tecnológico"><img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" /></a>
     <a href="#-stack-tecnológico"><img src="https://img.shields.io/badge/Leaflet-1.9-199900?style=for-the-badge&logo=leaflet&logoColor=white" alt="Leaflet" /></a>
     <a href="#-stack-tecnológico"><img src="https://img.shields.io/badge/USGS-Live_API-green?style=for-the-badge&logo=googleearth&logoColor=white" alt="USGS API" /></a>
   </p>
