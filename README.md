@@ -45,7 +45,7 @@ Durante situaciones de emergencia sísmica, el acceso inmediato a datos veraces,
 <table align="center" width="100%">
   <tr>
     <td width="50%" align="center">
-      <img src="public/screenshots/Screenshot_1.png" alt="Vista General del Mapa Sísmico Interactivo" width="100%"/>
+      <img src="public/screenshots/Screenshot_1.png?v=3" alt="Vista General del Mapa Sísmico Interactivo" width="100%"/>
       <br/>
       <sub>Vista General del Mapa Sísmico Interactivo</sub>
     </td>
