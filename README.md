@@ -47,31 +47,31 @@ Durante situaciones de emergencia sísmica, el acceso inmediato a datos veraces,
     <td width="50%" align="center">
       <img src="public/screenshots/Screenshot_1.png" alt="Vista General del Mapa Sísmico Interactivo" width="100%"/>
       <br/>
-      <sub><b>Figura 1:</b> Vista General del Mapa Sísmico Interactivo</sub>
+      <sub>Vista General del Mapa Sísmico Interactivo</sub>
     </td>
     <td width="50%" align="center">
       <img src="public/screenshots/Screenshot_2.png" alt="Panel de Detalles del Epicentro" width="100%"/>
       <br/>
-      <sub><b>Figura 2:</b> Panel de Detalles e Intensidad del Sismo</sub>
+      <sub>Panel de Detalles e Intensidad del Sismo</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" align="center">
       <img src="public/screenshots/Screenshot_3.png" alt="Gestión de Reportes e Incidencias Ciudadanas" width="100%"/>
       <br/>
-      <sub><b>Figura 3:</b> Gestión de Reportes e Incidencias Ciudadanas</sub>
+      <sub>Gestión de Reportes e Incidencias Ciudadanas</sub>
     </td>
     <td width="50%" align="center">
       <img src="public/screenshots/Screenshot_4.png" alt="Filtros de Búsqueda y Métricas de Magnitud" width="100%"/>
       <br/>
-      <sub><b>Figura 4:</b> Filtros de Búsqueda y Métricas de Magnitud</sub>
+      <sub>Filtros de Búsqueda y Métricas de Magnitud</sub>
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
       <img src="public/screenshots/Screenshot_5.png" alt="Interfaz Adaptativa para Dispositivos Móviles" width="100%"/>
       <br/>
-      <sub><b>Figura 5:</b> Interfaz Adaptativa para Dispositivos Móviles</sub>
+      <sub>Interfaz Adaptativa para Dispositivos Móviles</sub>
     </td>
   </tr>
 </table>
